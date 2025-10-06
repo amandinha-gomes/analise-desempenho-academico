@@ -28,28 +28,28 @@ Foram calculadas medidas de tendência central e dispersão (média, mediana, de
 O histograma evidencia a variação das notas, com maior concentração entre **65 e 80 pontos**, sugerindo um desempenho moderado da maioria dos estudantes.
 
 <p align="center">
-  <img src="analise descritiva.zip/imagens/grafico_notas_finais.png" width="500">
+  <img src="imagens/grafico_notas.png" width="500">
 </p>
 
 ### 🔹 Mapa de Correlação
 O **heatmap** foi utilizado para visualizar a correlação entre variáveis numéricas. Essa etapa ajuda a identificar possíveis relações entre a nota final, evasão e outros fatores.
 
 <p align="center">
-  <img src="C:/Users/amand/Downloads/analise descritiva/mapa_correlacao.png" width="500">
+  <img src=imagens/mapa_correlacao.png" width="500">
 </p>
 
 ### 🔹 Boxplot – Notas Finais por Evasão
 O boxplot permite observar as diferenças de notas entre estudantes que **evadiram** e **não evadiram**, revelando um padrão de menor desempenho entre os evadidos.
 
 <p align="center">
-  <img src="boxplot_evasao.png" width="500">
+  <img src="imagens/boxplot_evasao.png" width="500">
 </p>
 
 ### 🔹 Boxplot – Notas Finais por Curso
 Aqui são comparadas as notas médias entre diferentes cursos, mostrando a **distribuição do desempenho por área**.
 
 <p align="center">
-  <img src="boxplot_curso.png" width="500">
+  <img src="imagens/boxplot_curso.png" width="500">
 </p>
 
 ---
@@ -60,5 +60,3 @@ A análise demonstrou que:
 - Há **correlações leves** entre nota final e evasão;
 - Cursos específicos podem apresentar **variações significativas no desempenho médio**;
 - A visualização dos dados auxilia na identificação de padrões que podem embasar **estratégias de melhoria educacional**.
-
-
