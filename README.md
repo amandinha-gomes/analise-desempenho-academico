@@ -28,7 +28,7 @@ Foram calculadas medidas de tendência central e dispersão (média, mediana, de
 O histograma evidencia a variação das notas, com maior concentração entre **65 e 80 pontos**, sugerindo um desempenho moderado da maioria dos estudantes.
 
 <p align="center">
-  <img src="imagens/grafico_notas_finais.png" width="500">
+  <img src="analise descritiva.zip/imagens/grafico_notas_finais.png" width="500">
 </p>
 
 ### 🔹 Mapa de Correlação
@@ -60,13 +60,5 @@ A análise demonstrou que:
 - Há **correlações leves** entre nota final e evasão;
 - Cursos específicos podem apresentar **variações significativas no desempenho médio**;
 - A visualização dos dados auxilia na identificação de padrões que podem embasar **estratégias de melhoria educacional**.
-
----
-
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/analise-descritiva.git
 
 
